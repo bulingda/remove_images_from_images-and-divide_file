@@ -1,1 +1,2 @@
 # remove_images_from_images-and-divide_file
+根据标签文件名删除多余图片或移动图片到指定文件夹,划分数据集
